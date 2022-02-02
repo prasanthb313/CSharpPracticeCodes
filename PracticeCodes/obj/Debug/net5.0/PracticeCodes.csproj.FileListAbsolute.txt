@@ -1,0 +1,16 @@
+C:\Users\Nagarjuna\OneDrive\Desktop\Baddepudi Prasanth\PracticeCodes\PracticeCodes\obj\Debug\net5.0\PracticeCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nagarjuna\OneDrive\Desktop\Baddepudi Prasanth\PracticeCodes\PracticeCodes\obj\Debug\net5.0\PracticeCodes.AssemblyInfoInputs.cache
+C:\Users\Nagarjuna\OneDrive\Desktop\Baddepudi Prasanth\PracticeCodes\PracticeCodes\obj\Debug\net5.0\PracticeCodes.AssemblyInfo.cs
+C:\Users\Nagarjuna\OneDrive\Desktop\Baddepudi Prasanth\PracticeCodes\PracticeCodes\obj\Debug\net5.0\PracticeCodes.csproj.CoreCompileInputs.cache
+C:\Users\Nagarjuna\OneDrive\Desktop\Baddepudi Prasanth\PracticeCodes\PracticeCodes\bin\Debug\net5.0\PracticeCodes.exe
+C:\Users\Nagarjuna\OneDrive\Desktop\Baddepudi Prasanth\PracticeCodes\PracticeCodes\bin\Debug\net5.0\PracticeCodes.deps.json
+C:\Users\Nagarjuna\OneDrive\Desktop\Baddepudi Prasanth\PracticeCodes\PracticeCodes\bin\Debug\net5.0\PracticeCodes.runtimeconfig.json
+C:\Users\Nagarjuna\OneDrive\Desktop\Baddepudi Prasanth\PracticeCodes\PracticeCodes\bin\Debug\net5.0\PracticeCodes.runtimeconfig.dev.json
+C:\Users\Nagarjuna\OneDrive\Desktop\Baddepudi Prasanth\PracticeCodes\PracticeCodes\bin\Debug\net5.0\PracticeCodes.dll
+C:\Users\Nagarjuna\OneDrive\Desktop\Baddepudi Prasanth\PracticeCodes\PracticeCodes\bin\Debug\net5.0\ref\PracticeCodes.dll
+C:\Users\Nagarjuna\OneDrive\Desktop\Baddepudi Prasanth\PracticeCodes\PracticeCodes\bin\Debug\net5.0\PracticeCodes.pdb
+C:\Users\Nagarjuna\OneDrive\Desktop\Baddepudi Prasanth\PracticeCodes\PracticeCodes\obj\Debug\net5.0\PracticeCodes.dll
+C:\Users\Nagarjuna\OneDrive\Desktop\Baddepudi Prasanth\PracticeCodes\PracticeCodes\obj\Debug\net5.0\ref\PracticeCodes.dll
+C:\Users\Nagarjuna\OneDrive\Desktop\Baddepudi Prasanth\PracticeCodes\PracticeCodes\obj\Debug\net5.0\PracticeCodes.pdb
+C:\Users\Nagarjuna\OneDrive\Desktop\Baddepudi Prasanth\PracticeCodes\PracticeCodes\obj\Debug\net5.0\PracticeCodes.genruntimeconfig.cache
+C:\Users\Nagarjuna\OneDrive\Desktop\Baddepudi Prasanth\PracticeCodes\PracticeCodes\obj\Debug\net5.0\PracticeCodes.csproj.AssemblyReference.cache
