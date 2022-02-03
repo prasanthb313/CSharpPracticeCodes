@@ -10,7 +10,7 @@ namespace PracticeCodes.Array
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Adding elements into array");
+            Console.WriteLine("Adding elements");
 
             // int[,] arr = new int[3, 3]; //declaration of 2D array
             //  int[,,] threed = new int[3, 3, 3]; //declaration of 3D array
